@@ -1,0 +1,6 @@
+﻿  makingCheese.cpp
+C:\Users\User\source\repos\makingCheese\makingCheese.cpp(8,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\source\repos\makingCheese\makingCheese.cpp(9,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\source\repos\makingCheese\makingCheese.cpp(10,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\source\repos\makingCheese\makingCheese.cpp(29,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  makingCheese.vcxproj -> C:\Users\User\source\repos\makingCheese\Debug\makingCheese.exe
